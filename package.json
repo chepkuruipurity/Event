@@ -1,0 +1,20 @@
+{
+  "name": "Event",
+  "version": "1.0.0",
+  "description": "This is an event booking app using html, css, javascript and firestore.\r # Functionalities\r The event booking app has the following functionalities:    -the user can create an event and store in to Firestore.\r -the user can fetch all events in real time\r -the user can book an event\r -the user can't book an event more than once.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/purplesmile3/Event.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/purplesmile3/Event/issues"
+  },
+  "homepage": "https://github.com/purplesmile3/Event#readme"
+}
